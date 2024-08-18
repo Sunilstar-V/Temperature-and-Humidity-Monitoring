@@ -15,10 +15,10 @@
 #include "addons/RTDBHelper.h"  //realtime database
 #include "DHTesp.h" //to detect temp or humidity
 
-#define WIFI_SSID "123456789"
-#define WIFI_PASSWORD "123456789"
-#define API_KEY "AIzaSyBzvvpki_wRJ1GMeaS9jnqHdJgQ4UVO-68"
-#define DATABASE_URL "https://project1-ef6e6-default-rtdb.firebaseio.com/"
+#define WIFI_SSID "**********"
+#define WIFI_PASSWORD "**********"
+#define API_KEY "**********"
+#define DATABASE_URL "**********"
 
 FirebaseData fbdo;
 FirebaseAuth auth;
