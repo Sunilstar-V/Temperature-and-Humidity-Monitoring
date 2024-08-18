@@ -87,7 +87,7 @@ This project demonstrates how to use a NodeMCU (ESP8266) with a DHT11 sensor to 
 - Resistor (for LED)
 - Breadboard and Jumper Wires
 
-## Firebase Initialization
+### Firebase Initialization
 
 To set up Firebase in your NodeMCU project, use the following code:
 
@@ -98,13 +98,13 @@ Firebase.begin(&config, &auth);
 Firebase.reconnectWiFi(true);
 ```
 
-# DHT11 Sensor with Firebase and LED Control
+## DHT11 Sensor with Firebase and LED Control
 
-## Overview
+### Overview
 
 This project uses a DHT11 sensor to read temperature and humidity data, which is then sent to Firebase. Additionally, it allows for controlling an LED based on a value set in Firebase.
 
-## Code
+### Code
 
 ### DHT11 Sensor Reading
 
