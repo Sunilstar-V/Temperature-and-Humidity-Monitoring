@@ -73,13 +73,13 @@ This project consists of reading temperature and humidity from a DHT11 sensor an
     delay(300);
   }
 
-# Firebase and DHT11 Sensor Integration with NodeMCU
+## Firebase and DHT11 Sensor Integration with NodeMCU
 
-## Overview
+### Overview
 
 This project demonstrates how to use a NodeMCU (ESP8266) with a DHT11 sensor to read temperature and humidity data, send it to Firebase Realtime Database, and control an LED based on data stored in Firebase.
 
-## Components Required
+### Components Required
 
 - NodeMCU (ESP8266)
 - DHT11 Sensor
