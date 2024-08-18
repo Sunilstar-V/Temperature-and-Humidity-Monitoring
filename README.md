@@ -163,4 +163,5 @@ if (Firebase.RTDB.getString(&fbdo, "/mainbucket/bulb")) {
 - Check the Firebase rules to ensure write access is allowed.
 ### License
 - This project is licensed under the MIT License. See the LICENSE file for details.
+
 Save the above content in a file with a `.md` extension, for example, `README.md`. This file will provide clear instructions and code examples for users of your project.
